@@ -5,7 +5,7 @@ import './index.css'
 
 function App() {
   return (
-    <div>
+    <div className="bg-blue-400 text-white font-mono">
       <Header/>
       <Home/>
       <Footer/>

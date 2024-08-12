@@ -1,10 +1,9 @@
+import Title from "./Title"
 function Home() {
     return (
-        <>
-            <div>
-                Hello
-            </div>
-        </>
+        <div className="flex h-screen justify-center">
+            <Title></Title>
+        </div>
     )
 }
 
