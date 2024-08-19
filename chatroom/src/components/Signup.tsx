@@ -1,4 +1,7 @@
+import { useState } from "react";
+
 function Signup() {
+
     return (
         <div className="flex h-screen justify-center">
             <form action="/sign-up" className="flex flex-col py-36 gap-10">
